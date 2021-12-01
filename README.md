@@ -4,9 +4,7 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 - 🎓 &nbsp; Estudante de Ciência da Computação na UFCG.
-- 💼 &nbsp; Trabalho na Codex Jr.
-- 🌱 &nbsp; Entusiasta em Backend.
-- ✍️  &nbsp; Meus hobbies são mangás, futebol e academia.
+- 💼 &nbsp; Backend Developer.
 
 
 
