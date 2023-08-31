@@ -3,8 +3,8 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🎓 &nbsp; Estudante de Ciência da Computação na UFCG.
-- 💼 &nbsp; Backend Developer.
+- 🎓 &nbsp; Graduado em Ciência da Computação na UFCG.
+- 💼 &nbsp; Software Engineer.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobnd)](https://github.com/anuraghazra/github-readme-stats)
